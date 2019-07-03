@@ -32,7 +32,7 @@ dalia.example/src/test/java/dalia/example/pages
  - To download the project, in the terminal (Mac or Windows) execute this git command:
 
 ```
-git clone 
+git clone https://github.com/nicomori/dalia.git
 ```
 
  - in the directory of project make:
