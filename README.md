@@ -29,13 +29,21 @@ dalia.example/src/test/java/dalia/example/pages
 
 ## How to run tests localy
 
-#To download the project, in the terminal (Mac or Windows) execute this git command:
-git clone 
+ - To download the project, in the terminal (Mac or Windows) execute this git command:
 
-#in the directory of project make:
+```
+git clone 
+```
+
+ - in the directory of project make:
+
+```
 mvn eclipse:eclipse
 mvn clean compile
+```
 
-#To execute the example:
+ - To execute the example:
+
+```
 mvn test
-
+```
